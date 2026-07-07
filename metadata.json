@@ -1,0 +1,6 @@
+{
+  "name": "Nexora keybard ",
+  "description": "أقوى كيبورد وحافظة عملاقة تدعم نسخ أكثر من مليار كلمة وحفظ حتى 5000+ نص مع ميزة رفع خطوط مخصصة وتغيير الثيمات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
